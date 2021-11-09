@@ -13,7 +13,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Sobre mi",
+                "label": "Sobre mí",
                 "url": "/about",
                 "style": "link"
             },

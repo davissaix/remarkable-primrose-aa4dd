@@ -193,7 +193,7 @@ sections:
         name: consent
         label: >-
           Entiendo que este formulario guarda mi información para poder ser
-          constactado.
+          contactado.
         is_required: true
     submit_label: Send Message
     align_vert: top

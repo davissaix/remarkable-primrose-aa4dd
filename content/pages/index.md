@@ -163,8 +163,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: >
+      ## Hablemos
 
 
       If you would like more information about my services and pricing, please

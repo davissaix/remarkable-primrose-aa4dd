@@ -114,7 +114,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: Lo que mis clientes dicen
     grid_items:
       - content: >-
           Alyvia is an amazing content writer. She helped us produce microcopy

@@ -56,7 +56,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Mis Servicios
-    subtitle: Qué es lo que hago?
+    subtitle: ¿Qué es lo que hago?
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'

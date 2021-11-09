@@ -5,7 +5,7 @@ sections:
     title: Gracias!
     subtitle: 'Gracias por contactarme, te responderé muy pronto'
     actions:
-      - label: Back to homepage
+      - label: Volver a la página principal
         url: /
         style: primary
         has_icon: true

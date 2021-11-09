@@ -23,7 +23,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
+    title: Empresas y pacientes
     subtitle: He trabajado con
     align: center
     grid_items:

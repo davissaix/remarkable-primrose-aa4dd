@@ -1,8 +1,8 @@
 {
-    "title": "Stackbit Personal Theme",
+    "title": "Alfonso Ávila",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "dark",
     "palette": "red",
     "mode": "light",
     "base_font": "serif",

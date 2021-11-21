@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Alfonso Ávila. Psicoanalista
     subtitle: >-
-      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
+      I will handle your website design and production, social media accounts
+      and digital advertisements for you, at an affordable price.
     actions:
-      - label: Contact Me
+      - label: Contáctame
         url: /contact
         style: primary
     image: images/hero.png
@@ -22,8 +23,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    title: Pacientes y Empresas
+    subtitle: He trabajado con
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -54,11 +55,11 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: My services
-    subtitle: What I do
+    title: Mis Servicios
+    subtitle: ¿Qué es lo que hago?
     features:
       - title: Content Creation
-        subtitle: Website, blog, social media and more.
+        subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
@@ -112,8 +113,8 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
-    subtitle: What My Clients Say
+    title: Testimonios
+    subtitle: Lo que mis clientes dicen
     grid_items:
       - content: >-
           Alyvia is an amazing content writer. She helped us produce microcopy
@@ -162,12 +163,10 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >-
-      ## Let's talk
+    content: |
+      ## Hablemos
 
-
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Si quieres mas información sobre mis servicios no dudes en escribirme.
     content_align: left
     form_position: right
     form_width: fifty
@@ -178,7 +177,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nombre
         default_value: Your name
         is_required: true
       - input_type: email
@@ -188,15 +187,15 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
         default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario guarda mi información para poder ser
+          contactado.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
@@ -209,26 +208,26 @@ seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Personal Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Personal theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/personal-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Personal Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Personal theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced

@@ -2,9 +2,8 @@
 title: Contact
 sections:
   - type: hero_section
-    title: Contact Me
-    subtitle: >-
-      Fill out the form below and I will get in touch within 1 business day.
+    title: Contáctame
+    subtitle: Fill out the form below and I will get in touch within 1 business day.
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -36,7 +35,7 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
+        label: Nombre
         default_value: Your name
         is_required: true
       - input_type: email
@@ -46,15 +45,15 @@ sections:
         is_required: true
       - input_type: textarea
         name: message
-        label: Message
+        label: Mensaje
         default_value: Your message
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que este formulario guarda mi información para poder ser
+          contactado.
         is_required: true
-    submit_label: Send Message
+    submit_label: Enviar
     align_vert: top
     padding_top: medium
     padding_bottom: medium
@@ -67,20 +66,20 @@ seo:
   title: Contact
   description: This is the contact page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Contact
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the contact page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Contact
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
 ---

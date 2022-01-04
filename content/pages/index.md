@@ -2,10 +2,12 @@
 title: Home
 sections:
   - type: hero_section
-    title: Alfonso Ávila. Psicoanalista
+    title: David Fotógrafo
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Fotógrafo urbano y de moda, colaborando con grandes empresas textiles y publicitarias realizando fotos para catálogos y de
+ viajes, con experiencia en manejo de modelos e iluminación. 
+ Participaciones en varias exposiciones a nivel nacional en fotografía artistica. 
+
     actions:
       - label: Contáctame
         url: /contact
@@ -23,7 +25,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: grid_section
-    title: Pacientes y Empresas
+    title: Cliente y Empresas
     subtitle: He trabajado con
     align: center
     grid_items:
@@ -58,14 +60,12 @@ sections:
     title: Mis Servicios
     subtitle: ¿Qué es lo que hago?
     features:
-      - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
+      - title: Fotógrafo de Modas
+        subtitle: 'Moda y catalogos'
         content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+          Fotografía de prensa, en eventos de moda, desfiles, eventos sociales, creación de catalogos para ropa urbana, vestido de baño, ropa interior. 
         actions:
-          - label: See Writing Samples
+          - label: Trabajos realizados
             url: /faq
             style: primary
             has_icon: true
@@ -75,14 +75,12 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Online Store Management
-        subtitle: 'Product updates, inventory and pricing.'
+      - title: Fotografía Artística
+        subtitle: 'Sensualidad, empoderamiento, autoestima'
         content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+          Fotografía en artes finas, expresando la belleza y sensualidad del cuerpo femenino, para modelos o mujeres que simplemente quieren verse sensuales y recobrar la confianza en sí mismas. 
         actions:
-          - label: Learn More
+          - label: Saber más
             url: /about
             style: secondary
             has_icon: true
@@ -92,14 +90,12 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Technical Content
-        subtitle: 'Your products and services, at scale.'
+      - title: Fotógrafo de viajes 
+        subtitle: 'Promoción de lugares turísticos, hoteles y restaurantes'
         content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+          Fotografía de lugares vacacionales, airbnb, fincas u hoteles y lugares a promocionar. 
         actions:
-          - label: See Past Work
+          - label: Mira mis viajes
             url: /faq
             style: primary
             has_icon: true
@@ -117,39 +113,33 @@ sections:
     subtitle: Lo que mis clientes dicen
     grid_items:
       - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+          David es un gran fotógrafo, super profesional y respetuoso con una perspectiva distinta de las cosas.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Anna Suarez,** *RaveStore, Studio*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+          David realmente entiende mis necesidades y sabe sacar lo mejor de mi haciendo que todo fluya. Estoy muy satisfecha.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Maria Alejandra Velez,** *Modelo*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          Working with Alyvia was great because she was well versed in all of
-          our tools and applications, and was able to manage our store and
-          campaigns without any technical glitches.
+          Trabajar con David es muy agradable, entiende las ideas y lo que la marca requiere proyectar.
 
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Elena Jaramillo,** *SunBath Tienda*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
       - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+          Me encanta la sutilesa con la que todo surge, me siento en confianza y disfruto de cada sesion con David.
 
-
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Camila A,** *Cliente*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
